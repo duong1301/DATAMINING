@@ -1,0 +1,10 @@
+Decision Tree:
+https://www.datacamp.com/tutorial/decision-tree-classification-python
+
+Naive Bayes:
+https://www.datacamp.com/tutorial/naive-bayes-scikit-learn
+
+K-nearest-neighbor:
+https://www.kaggle.com/code/stieranka/k-nearest-neighbors
+https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn
+
